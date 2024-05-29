@@ -8,7 +8,7 @@
   ],
   "routes": [
     {
-      "src": "frontend/(.*)",
+      "src": "/api/(.*)",
       "dest": "back/index.js"
     }
   ]
